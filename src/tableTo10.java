@@ -3,8 +3,6 @@ import java.util.Scanner;
 public class tableTo10{
     public static void main(String[] args) {
        /* Scanner num = new Scanner(System.in);
-
-
         System.out.println("Input a number: ");
         int z = num.nextInt();
         int sum;
@@ -12,7 +10,7 @@ public class tableTo10{
             sum = z*i;
             System.out.println(z + " * "+ i + " = " + sum);
         }*/
-       goodDeal();
+        goodDeal();
 
     }
     public static void goodDeal (){
@@ -32,4 +30,5 @@ public class tableTo10{
         double e = sum/a;
         System.out.println("average = "+ e);
     }
+
 }
